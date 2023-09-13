@@ -1,0 +1,24 @@
+#bande{
+	display: flex;
+	background-color: #588386;
+	margin-top:20px;
+	padding: 10px;
+	align-items: center;
+	justify-content: space-between;
+    margin-bottom: 10px;
+}
+
+.liens{
+	width: 80%;
+	display: flex;
+	justify-content: space-between;
+	padding-right: 3%;
+    padding-left: 10%;
+    min-width: 210px;
+}
+.liens > a {
+	font-size: 30px;
+    color: black;
+    text-decoration: none;
+    text-align:center;  
+}
