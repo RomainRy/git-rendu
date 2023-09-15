@@ -9,3 +9,18 @@
 body {
     background-color: #e1E1eb;
 }
+
+h1{
+    color:#374779;
+}
+
+p{
+    color:#374779;
+    font-size: 25px;
+}
+
+@media screen and (max-width: 500px) {
+    p{
+        font-size: 20px;
+    }
+}
