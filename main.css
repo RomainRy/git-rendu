@@ -17,8 +17,19 @@ h1{
 p{
     color:#374779;
     font-size: 25px;
+    padding: 10px;
 }
-
+.titre{
+    align-self:center;
+    padding-bottom: 20px;
+}
+.chapitre{
+    margin-top: 10vh;
+    width: 80vw;
+    display: flex;
+    flex-direction: column;
+    margin-left: 10vw;
+}
 @media screen and (max-width: 500px) {
     p{
         font-size: 20px;

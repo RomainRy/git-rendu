@@ -10,18 +10,6 @@
 body {
     background-color: #e1E1eb;
 }
-.chapitre{
-    margin-top: 10vh;
-    width: 80vw;
-    display: flex;
-    flex-direction: column;
-    margin-left: 10vw;
-}
-.titre{
-    align-self:center;
-    padding-bottom: 20px;
-}
-
 .animation{
     font-size: 24px;
     margin-top: 5%;
@@ -41,4 +29,9 @@ body {
     padding: 30px 20px;
     border-top: dashed white;
     background-color: rgb(33, 31, 31);
+}
+
+#img_scene{
+    width:80%;
+    align-self:center;
 }
